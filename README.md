@@ -1,3 +1,3 @@
 # hello-world
 starting.....
-include *.*.* ,import :P
+#include<lazyness>
